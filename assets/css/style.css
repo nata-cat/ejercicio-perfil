@@ -1,0 +1,65 @@
+body{
+    background-color: #fafafa;
+}
+
+h1{
+    color: darkviolet;
+}
+
+hr{
+
+    color:  rgb(92, 43, 226);
+}
+
+
+.form-control{
+    border: none;
+    border-bottom: solid rgb(92, 43, 226) 1px ;
+    background-color: #ffffff00;
+    border-radius: 0px;
+}
+
+.form-label{
+    color: blueviolet;
+}
+
+.datosEscritos{
+    font-size: 15px;
+    color: grey;
+}
+
+#enviarDatos{
+    background-image: linear-gradient(to top left,salmon, rgb(92, 43, 226));
+    border: solid 0px blueviolet;
+    border-radius: 3px;
+}
+
+#guardarDatos{
+    background-image: linear-gradient(to top left,salmon, rgb(92, 43, 226));
+    border: solid 0px blueviolet;
+    border-radius: 3px;
+}
+
+#seccionFoto{
+    background-image: linear-gradient(to top left, salmon, rgb(92, 43, 226));
+    padding-top: 24px;
+    padding-bottom: 24px;
+    color: #fbfbfb;
+
+    border-radius: 16px 0px 0px 16px;
+}
+
+#nombrePerfil{
+    margin-top: 16px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+#trabajoPerfil{
+    font-size: 18px;
+    font-weight:400;
+}
+
+#seccionDatos{
+    background-color: #ffffff;
+}
